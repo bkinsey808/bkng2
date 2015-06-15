@@ -1,0 +1,19 @@
+{
+  "name": "bkng2",
+  "version": "0.0.1",
+  "description": "Ben Kinsey's Angular 2 experiments",
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "author": "Ben Kinsey",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-watch": "",
+    "grunt-typescript": "^0.6.2",
+    "tsd": "^0.6.0",
+    "typescript": "^1.5.0-beta"
+  }
+}
